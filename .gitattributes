@@ -1,0 +1,3 @@
+# Preserve CRLF bytes in repository archives and raw downloads.
+*.bat -text diff
+*.ps1 -text diff

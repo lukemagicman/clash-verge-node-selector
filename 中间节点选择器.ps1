@@ -1,4 +1,4 @@
-# Clash Verge 中间节点选择器
+﻿# Clash Verge 中间节点选择器
 # 仅访问本机 Clash Verge 配置目录；不会上传订阅、节点或代理凭据。
 
 $ErrorActionPreference = 'Stop'
